@@ -1,1 +1,47 @@
-<svg viewBox="0 0 109 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns"><title>Logo</title><g transform="translate(-1470)" figma:type="canvas"><g style="mix-blend-mode:normal" figma:type="vector" transform="translate(1470)" fill="#f40"><use xlink:href="#b" style="mix-blend-mode:normal"/><use xlink:href="#c" style="mix-blend-mode:normal"/><use xlink:href="#d" style="mix-blend-mode:normal"/><use xlink:href="#e" style="mix-blend-mode:normal"/><use xlink:href="#f" style="mix-blend-mode:normal"/></g></g><defs><path id="b" d="M22.735 23.171c.283.323.053.829-.376.829h-5.907c-.285 0-.556-.121-.745-.333l-9.414-10.526v10.36c0 .276-.224.5-.5.5h-5.293c-.276 0-.5-.224-.5-.5v-23c0-.276.224-.5.5-.5h5.293c.276 0 .5.224.5.5v9.815l9.141-9.99c.19-.207.457-.325.738-.325h5.762c.437 0 .664.521.366.841l-9.851 10.563 10.287 11.767z"/><path id="c" d="M45.991 24c-.199 0-.38-.118-.459-.301l-2.024-4.669h-10.67l-2.024 4.669c-.079.183-.259.301-.459.301h-5.212c-.366 0-.608-.381-.453-.712l10.782-23c.082-.176.259-.288.453-.288h4.358c.194 0 .37.112.453.287l10.815 23c.156.332-.086.713-.452.713h-5.108zm-11.135-9.668h6.635l-3.317-7.694-3.317 7.694z"/><path id="d" d="M55.525 24c-.276 0-.5-.224-.5-.5v-23c0-.276.224-.5.5-.5h5.293c.276 0 .5.224.5.5v18.428h9.759c.276 0 .5.224.5.5v4.072c0 .276-.224.5-.5.5h-15.552z"/><path id="e" d="M75.279.5c0-.276.224-.5.5-.5h9.315c2.667 0 4.959.477 6.874 1.43 1.938.953 3.42 2.338 4.446 4.153 1.026 1.793 1.539 3.926 1.539 6.4 0 2.496-.513 4.652-1.539 6.468-1.003 1.793-2.474 3.166-4.412 4.119-1.915.953-4.218 1.43-6.908 1.43h-9.315c-.276 0-.5-.224-.5-.5v-23zm9.37 18.462c2.371 0 4.138-.579 5.301-1.736 1.163-1.157 1.744-2.905 1.744-5.242 0-2.338-.581-4.074-1.744-5.209-1.163-1.157-2.93-1.736-5.301-1.736h-3.078v13.923h3.078z"/><path id="f" d="M102.913 24c-.276 0-.5-.224-.5-.5v-23c0-.276.224-.5.5-.5h5.293c.276 0 .5.224.5.5v23c0 .276-.224.5-.5.5h-5.293z"/></defs></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="599px" height="88px" viewBox="0 0 599 88" enable-background="new 0 0 599 88" xml:space="preserve">  <image id="image0" width="599" height="88" x="0" y="0"
+    href="data:image/png;base64,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
+MDc6MDBl1jhrAAAAAElFTkSuQmCC" />
+</svg>
