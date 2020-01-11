@@ -1,1 +1,19 @@
 .product-image { display: none !important; }
+
+
+html, body, .containerx {
+    height: 100%;
+}
+
+.containerx {
+    display: -webkit-flexbox !important;
+    display: -ms-flexbox  !important;
+    display: -webkit-flex  !important;
+    display: flex  !important;
+    -webkit-flex-align: center  !important;
+    -ms-flex-align: center  !important;
+    -webkit-align-items: center  !important;
+    align-items: center  !important;
+    justify-content: center  !important;
+    margin-top: -500px !important;
+}
