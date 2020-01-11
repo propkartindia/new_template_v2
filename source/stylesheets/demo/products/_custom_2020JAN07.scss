@@ -17,3 +17,12 @@ html, body, .containerx {
     justify-content: center  !important;
     ____________margin-top: -500px !important;
 }
+
+video {
+  z-index: -1 !important;
+	width: 100% !important;
+  object-position:center;
+    object-fit:cover !important;
+}
+.video-size{ height: 300px !important; }
+.hero{ background-color: transparent !important;}
