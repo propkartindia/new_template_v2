@@ -30,7 +30,10 @@ video {
 .hero { 
 	background-color: transparent !important;
 }
-.hero h1 {
+.hero h1 { 
 	padding-top: 10px !important;	
-	color: white;
+	color: white; }
+
+.story-content{
+	z-index: 9999 !important;
 }
