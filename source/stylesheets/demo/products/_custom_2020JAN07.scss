@@ -24,8 +24,12 @@ video {
   object-position:center;
     object-fit:cover !important;
 }
-.video-size{ height: 0px !important; }
-.hero{ background-color: transparent !important;}
-
-
-
+.video-size { 
+	height: 0px !important; 
+}
+.hero { 
+	background-color: transparent !important;
+}
+.hero h1 {
+	padding-top: 10px !important;	
+}
