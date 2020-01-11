@@ -19,7 +19,7 @@ html, body, .containerx {
 }
 
 video {
-  z-index: -1 !important;
+  z-index: -99999 !important;
 	width: 100% !important;
   object-position:center;
     object-fit:cover !important;
