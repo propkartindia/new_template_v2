@@ -1,12 +1,11 @@
 section.products
   .container
     h2
-      | productsX
+      | Products
     .row
       //product is structured: ['filename', 'data']
       //sort by newest product
-      - data.product.sort {|a,b| b[1].date <=> a[1].date}.each do | product |
+      - data.products.sort {|a,b| b[1].date <=> a[1].date}.each do | product |
 
         //to get the actual data:
-        = partial 'partials/product/product', locals: {product: product[1]}
-
+        = partial 'partials/products/product', locals: {product: product[1]}
