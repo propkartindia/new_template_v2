@@ -1,58 +1,77 @@
-.50w { width: 50% !important; }
-.product-image { display: none !important; }
-.news .image span { display: none !important; }
-.rightX { text-align: right !important; }
+.50w {
+	width: 50% !important;
+}
+
+.product-image {
+	display: none !important;
+}
+
+.news .image span {
+	display: none !important;
+}
+
+.rightX {
+	text-align: right !important;
+}
 
 .containerx {
-    display: -webkit-flexbox !important;
-    display: -ms-flexbox  !important;
-    display: -webkit-flex  !important;
-    display: flex  !important;
-    -webkit-flex-align: center  !important;
-    -ms-flex-align: center  !important;
-    -webkit-align-items: center  !important;
-    align-items: center  !important;
-    justify-content: center  !important;
-    ____________margin-top: -500px !important;
+	display: -webkit-flexbox !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+	-webkit-flex-align: center !important;
+	-ms-flex-align: center !important;
+	-webkit-align-items: center !important;
+	align-items: center !important;
+	justify-content: center !important;
+	____________margin-top: -500px !important;
 }
 
 video {
 	z-index: -99999 !important;
 	width: 100% !important;
-  	object-position:center;
-    	object-fit:cover !important;
+	object-position: center;
+	object-fit: cover !important;
 	position: absolute !important;
 }
-.video-size { 
+
+.video-size {
 	z-index: -99999 !important;
 	height: 75% !important;
 }
-.hero { 
+
+.hero {
 	background-color: transparent !important;
 }
-.hero h1 { 
-	width: 50%;
-	padding-top: 40px !important;	
-	font-weight: unset ;
-	color: white; }
 
-.news-detail .date {display: none !important;}
+.hero h1 {
+	width: 50%;
+	padding-top: 40px !important;
+	font-weight: unset;
+	color: white;
+}
+
+.news-detail .date {
+	display: none !important;
+}
 
 @media (min-width: 768px) {
-.products .product {
-	width: 50% !important;
+	.products .product {
+		width: 50% !important;
 	}
 }
+
 .homepage-story {
-    background: transparent !important;
+	background: transparent !important;
 }
 
 .homepage-story .story-content p {
-    /* margin: 0; */
-    font-size: 3rem !important;
-    line-height: 4rem !important;
-    font-weight: 100;
-    text-shadow: 1px 1px black;
+	/* margin: 0; */
+	font-size: 3rem !important;
+	line-height: 4rem !important;
+	font-weight: 100;
+	text-shadow: 1px 1px black;
+	width: 50%;
 }
 
 .footerX {
@@ -64,7 +83,9 @@ video {
 }
 
 footer {
-    background-color: grey !important;
+	background-color: grey !important;
 }
 
-h1 { font-family: 'Montserrat', sans-serif !important; }
+h1 {
+	font-family: 'Montserrat', sans-serif !important;
+}
