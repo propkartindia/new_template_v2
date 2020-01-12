@@ -6,14 +6,7 @@ description: >-
 image: /images/uploads/bhagiyem_harinatchi.png
 ---
 
-.custom
-  center
-    p style=("font-size: 40px; text-transform: uppercase; transform: rotate(-20deg) skew(-20deg); background-color: transparent; opacity: 1; font-family: 'Gill Sans MT' !important; line-height:1;") 
-      b 6 NEW FLATS WITH LIFT
-      br/
-      span style=("line-height:1.5;background-color: white; color: black; position:relative; z-index:9999;")  Nr. MADAMBAKKAM
-      | ZION SCHOOL
-    a href="https://www.google.com/maps?q=12.9061016,80.1628103&amp;z=17&amp;hl=en" style=("    font-size: 3em;text-decoration:none;")  ⟶
+
 
 
 In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
