@@ -60,6 +60,13 @@ video {
 	.products .product {
 		width: 50% !important;
 	}
+	.rightX label {
+		font-size: 0.5em !important; 
+		background-color: rgba(0, 0, 0, 0.1); 
+		line-height: 0.5em !important; 
+		color: white; 
+		text-shadow: 1px 1px black;
+	}
 }
 
 .homepage-story {
