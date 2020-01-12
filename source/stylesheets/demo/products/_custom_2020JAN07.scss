@@ -75,8 +75,9 @@ video {
 	width: 50%;
 }
 
-.footerX {
+.rightX {
 	text-align: right;
+	font-size: 2em !important; background-color: rgba(0, 0, 0, 0.1); line-height: 1.5em !important; color: white; text-shadow: 1px 1px black;
 }
 
 .homepage-story .story-content {
@@ -85,6 +86,10 @@ video {
 
 footer {
 	background-color: grey !important;
+}
+
+.footerX {
+	text-align: right;
 }
 
 h1 {
