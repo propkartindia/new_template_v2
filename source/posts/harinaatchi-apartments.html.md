@@ -1,14 +1,20 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2018-08-16T12:01+02:00
+title: Harinaatchi Apartments
+date: 2016-08-16T12:01+02:00
 description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
-image: /images/uploads/news_item-02.jpg
+  Location: Harinaatchi Apartments, Behind Zion School, Madambakkam, Chennai.
+image: /images/uploads/bhagiyem_harinatchi.png
 ---
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+.custom
+  center
+    p style=("font-size: 40px; text-transform: uppercase; transform: rotate(-20deg) skew(-20deg); background-color: transparent; opacity: 1; font-family: 'Gill Sans MT' !important; line-height:1;") 
+      b 6 NEW FLATS WITH LIFT
+      br/
+      span style=("line-height:1.5;background-color: white; color: black; position:relative; z-index:9999;")  Nr. MADAMBAKKAM
+      | ZION SCHOOL
+    a href="https://www.google.com/maps?q=12.9061016,80.1628103&amp;z=17&amp;hl=en" style=("    font-size: 3em;text-decoration:none;")  ⟶
+
 
 In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
 
